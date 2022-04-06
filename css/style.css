@@ -1,0 +1,32 @@
+h6 {
+	text-align: center;
+}
+.main-box {
+	margin: 36px;
+	margin-top: 6px;
+	background-color: #56836F;
+	padding: 70px;
+}
+.main-img {
+	float: right;
+}
+li {
+	float: right;
+	color: #FFFFFF;
+}
+.clear {
+	clear: both;
+}
+.div-box1 {
+	width: 523px;
+	float: left;
+	background-color: #FCEE21;
+	margin-right: 18px;
+	margin-top: 63px;
+}
+.div-img-1 {
+	float: right;
+}
+.div-img-2 {
+	float: left;
+}
