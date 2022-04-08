@@ -23,7 +23,9 @@ li {
 .nav {
 	margin-right: 50px;
 	font-size: 48px;
-
+	text-transform: uppercase;
+	font-family: 'Karla';
+	font-weight: 400;
 }
 .div-box1 {
 	width: 545px;
@@ -40,4 +42,8 @@ li {
 .div-img-2 {
 	float: left;
 	margin: 20px;
+}
+.div-paragraph {
+	text-transform: uppercase;
+	font-family: 'Karla';
 }
